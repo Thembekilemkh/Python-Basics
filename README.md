@@ -1,2 +1,2 @@
-# Coding
-Includes my programming languages basics, and some project i have put together over the time
+# Python Baasics
+This branch includes basic pyton functionality. A strong python foundation which you can use to build more advance python skills, this is where I would suggest a noob to start.
